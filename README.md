@@ -12,5 +12,6 @@ A script to perform Sentimental Analysis on Tweets
 - RColorBrewer
 - RCurl
 - httr
+- twitteR
 ## Sample Output
 ![Screenshot](Capture.JPG)
